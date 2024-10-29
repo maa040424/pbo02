@@ -1,7 +1,10 @@
-Nama : Muhammad Adam Alghifari
-Npm  : 2210010314
-Kelas : 5B reg pagi BJB 
+# Folder untuk Matkul PBO02
 
+**Nama:** Muhammad Adam Alghifari  
+**NPM:** 2210010314  
+**Kelas:** 5B Reg Pagi BJB  
+
+---
 
 # Panduan
 
