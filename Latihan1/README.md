@@ -1,4 +1,4 @@
-# Folder untuk Matkul PBO02
+# Latihan 1
 
 **Nama:** Muhammad Adam Alghifari  
 **NPM:** 2210010314  
