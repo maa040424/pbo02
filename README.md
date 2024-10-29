@@ -1,3 +1,6 @@
+**penting kalo dilihat dari preview akan amburadul, disarankan buka pada tab code......**
+
+
 Folder untuk matkul pbo02
 Nama  : Muhammad Adam Alghifari
 Npm   : 2210010314
